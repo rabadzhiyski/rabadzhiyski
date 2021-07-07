@@ -2,7 +2,7 @@ https://rabadzhiyski.github.io/ProjectPortfolio/
 
 - 👋 Hi, I’m Plamen Rabadzhiyski.
 - 👀 I’m interested in data science and project management.
-- 🌱 I’m currently learning machine learning with python.
+- 🌱 I’m currently learning deep learning with python.
 - 💞️ I’m looking to collaborate on big data projects.
 - 📫 How to reach me: plamen@pmtonomy.com
 
