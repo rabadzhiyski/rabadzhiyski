@@ -1,4 +1,4 @@
-https://rabadzhiyski.github.io/ProjectPortfolio/
+https://rabadzhiyski.github.io/Project-Portfolio/
 
 - 👋 Hi, I’m Plamen Rabadzhiyski.
 - 👀 I’m interested in data science and project management.
