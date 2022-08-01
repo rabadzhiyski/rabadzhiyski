@@ -1,5 +1,7 @@
 https://rabadzhiyski.github.io/Project-Portfolio/
 
+https://shiny.plamenr.com/
+
 - 👋 Hi, I’m Plamen Rabadzhiyski.
 - 👀 I’m interested in data science and project management.
 - 🌱 I’m currently working on machine learning prediction with python and R.
