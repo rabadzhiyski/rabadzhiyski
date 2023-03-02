@@ -2,8 +2,10 @@ https://rabadzhiyski.github.io/Project-Portfolio/
 
 https://shiny.plamenr.com/
 
+https://data-science-ai.com/
+
 - 👋 Hi, I’m Plamen Rabadzhiyski.
-- 👀 I’m interested in data science and project management.
+- 👀 I’m interested in solving complex problems with the help of data.
 - 🌱 I’m currently working on unlocking business potential with data science and AI.
 - 💞️ I’m looking to collaborate on data science projects.
 - 📫 How to reach me: plamen@data-science-ai.com
