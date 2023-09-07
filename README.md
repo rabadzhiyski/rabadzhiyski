@@ -1,4 +1,4 @@
-https://rabadzhiyski.github.io/Project-Portfolio/
+https://plamen.ai/
 
 https://shiny.plamenr.com/
 
