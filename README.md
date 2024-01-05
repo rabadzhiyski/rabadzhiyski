@@ -1,15 +1,18 @@
-https://plamen.ai/
+# Hi, I’m Plamen!
 
-https://shiny.plamenr.com/
+👀 I’m interested in solving complex problems with the help of data and technology.
 
-https://data-science-ai.com/
+🌱 I’m working on unlocking business potential with data science and AI.
 
-- 👋 Hi, I’m Plamen Rabadzhiyski.
-- 👀 I’m interested in solving complex problems with the help of data.
-- 🌱 I’m currently working on unlocking business potential with data science and AI.
-- 💞️ I’m looking to collaborate on data science projects.
-- 📫 How to reach me: https://plamen.ai/
+💞️ I’m looking to collaborate on data science projects.
 
+📫 How to reach me
+
+  - My website: https://plamen.ai/
+  - My data science portfolio: https://shiny.plamenr.com/
+  - My consulting site: https://data-science-ai.com/
+
+**All models are wrong, but some are useful!**
 
 <!---
 rabadzhiyski/rabadzhiyski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
