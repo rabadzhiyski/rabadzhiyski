@@ -9,7 +9,6 @@
 📫 How to reach me
 
   - My website: https://plamen.ai/
-  - My data science portfolio: https://shiny.plamenr.com/
   - My consulting site: https://data-science-ai.com/
 
 **All models are wrong, but some are useful!**
