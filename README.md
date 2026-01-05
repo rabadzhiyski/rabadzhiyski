@@ -10,6 +10,7 @@
 
   - My website: https://plamen.ai/
   - My consulting site: https://data-science-ai.com/
+  - Join the [AI Business Scientist Newsletter](https://data-science-ai.kit.com/newsletter)
 
 **All models are wrong, but some are useful!**
 
